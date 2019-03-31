@@ -3,7 +3,7 @@ layout: post
 title: MathJax Test
 date: 2017-07-30
 categories: test
-cover: 'assets/img/Aya.png'
+cover: 'https://i.loli.net/2019/04/01/5ca152794c18e.png'
 tags: mathjax 
 ---
 
