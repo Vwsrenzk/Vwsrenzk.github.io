@@ -14,13 +14,13 @@ nav:
 
 # Footer
 footer:
-  since: 2018.11
+  since: 2019
 
 # Author 配置博主信息
 author: '孙晨曦'
 nickname: 'HeiSakuya'
 bio: 'OIer, 东方狗, JOJO厨, 玩家'
-avatar: '/assets/img/Aya.png'
+avatar: '/assets/img/profile.png'
 
 # Search
 search: true
