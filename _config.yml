@@ -30,8 +30,12 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: ture
+  disqus: false
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+
+# Online contact 
+daovoice: true
+daovoice_app_id: 29a69188
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
