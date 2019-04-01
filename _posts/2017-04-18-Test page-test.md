@@ -22,4 +22,4 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 
 ### Video Test
 
-<iframe src="https://www.bilibili.com/video/av10298843?from=search&seid=12596143323700567234" frameborder="0" width="640" height="430" allowfullscreen></iframe>
+<iframe src="https://www.bilibili.com/video/av34618596" frameborder="0" width="640" height="430" allowfullscreen></iframe>
